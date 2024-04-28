@@ -24,14 +24,6 @@ This project aims to predict crop yields by utilizing multiple machine learning 
 - Visualization tools for model performance.
 - Deployment guidelines for real-time predictions.
 
-## Installation
-
-1. Clone the repository:
-
-
-Of course! Here's the README file content in Markdown format, which you can copy and paste into a writable file like a Markdown (.md) or plain text (.txt) file:
-
-markdown
 Copy code
 # Crop Yield Prediction and Ensemble Modeling
 
